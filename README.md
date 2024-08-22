@@ -1,4 +1,4 @@
-<h1>Troca de Imagem Simples com Javascript.</h1>
+<h1>Troca de Imagem Simples com JavaScript.</h1>
 
 ## 1 páginas html:
 - index.html
