@@ -1,0 +1,23 @@
+body {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#minha-imagem {
+    width: 600px;
+    height: 400px;
+}
+
+:root {
+    --white: #FDFEFE;
+    --lavander: #CCCCFF;
+    --lavanderdark: #5B2C6F;
+}
+
+h1 {
+    text-shadow: 3px 3px 5px var(--lavanderdark);
+    color: var(--lavander);
+    text-align: center;
+}
